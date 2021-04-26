@@ -1,3 +1,4 @@
+![48367312_559189364546573_8430410895217131520_n](https://user-images.githubusercontent.com/83235895/116118429-7d9c8d00-a6e7-11eb-82ce-1d704d69b974.jpg)
 .sidebar {
   width: 260px;
   background-color: var(--color-auto-blue-9);
