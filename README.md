@@ -1,23 +1,12 @@
-- 👋 Hi, I’m @Harryelric
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://opensource.org/licenses/mit-license.html?fbclid=IwAR1HOAklvYFgecfqYULersFqcOAv9sq4Ld-jI9WjgpNk45SJ0uH34T2cFpU
+# Halo Saya HarryElric
 
-<!---
-Harryelric/Harryelric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Security Policy
-Supported Versions
-Use this section to tell people about which versions of your project are currently being supported with security updates.
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 
-Version	Supported
-5.1.x	✅
-5.0.x	❌
-4.0.x	✅
-< 4.0	❌
-Reporting a Vulnerability
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc.
+Web Designer & Web Developer located in Indonesia, Creating design & programming contents in Syaucademy.
+🔭 I’m currently studying **Software Engineering** at SMKN 1 Ciamis
+- 🌱 I’m currently learning **WordPress** and **React**
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
+- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
+- 💬 I'm mostly active within the **Facebook**, **Instagram** and **Youtube** communities
