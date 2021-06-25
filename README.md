@@ -1,12 +1,25 @@
-# Halo Saya HarryElric
+### Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=Harryelric&color=brightgreen)
 
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+## Contact me
 
-Web Designer & Web Developer located in Indonesia, Creating design & programming contents in Syaucademy.
-🔭 I’m currently studying **Software Engineering** at SMKN 1 Ciamis
-- 🌱 I’m currently learning **WordPress** and **React**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram** and **Youtube** communities
+[Facebook](https://facebook.com/membuatwebsitepalsu.go.id) | [Twitter](https://twitter.com/dj_dzaky) | [Instagram](https://instagram.com/dzakychanxd) |  
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+## Status
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=Harryelric&show_icons=true)](https://github.com/Harryelric)
+
+## My Most Used Language
+
+![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Harryelric&langs_count=6&layout=compact)
